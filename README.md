@@ -1,3 +1,8 @@
+##About this project
+<p>
+This Project was an End Of Study Project Using laravel && MySQL
+</p>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
